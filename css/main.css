@@ -33,17 +33,6 @@ body{
   left: 860px;
 }
 
-/*
-.log1{
-  width: 50px;
-  height: 100px;
-  background: url('../img/logo1.png');
-  position: relative;
-  bottom: 0px;
-  left: 0px;
-}
-*/
-
 h2{
   display: block;
   line-height: 6px; /* interlineado de texto */
@@ -78,4 +67,13 @@ h3{
     bottom: 750px;
     font-size: 15px;
     font-weight: 200;
+}
+
+.log1{
+  width: 200px;
+	height: 200px;
+  background: url('../img/logo1.png');
+  position: relative;
+  left: 450px;;
+  bottom: 1200px;
 }
