@@ -1,0 +1,81 @@
+body{
+  margin: 0;
+  padding: 0;
+  color: #F3F3F5;
+}
+
+.foto{
+  width: 700px;
+	height: 500px;
+  background: url('../img/yo.jpg');
+  position: relative;
+  left: 150px;;
+  top: 100px;
+}
+
+.fondo2{
+    border-bottom: 500px solid black;
+  	border-left: 250px solid transparent;
+  	border-right: 0px solid transparent;
+  	height: 0;
+  	width: 230px;
+    position: relative;
+    left: 450px;;
+    bottom: 400px;
+}
+
+.log2{
+  width: 70px;
+  height: 70px;
+  background: url('../img/logo2.png');
+  position: relative;
+  bottom: 470px;
+  left: 860px;
+}
+
+/*
+.log1{
+  width: 50px;
+  height: 100px;
+  background: url('../img/logo1.png');
+  position: relative;
+  bottom: 0px;
+  left: 0px;
+}
+*/
+
+h2{
+  display: block;
+  line-height: 6px; /* interlineado de texto */
+  word-spacing: 5px; /* espacio entre palabras */
+  font-family: 'Nunito', sans-serif;
+  position: relative;
+  left: 670px;
+  bottom: 820px;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+h3{
+  font-family: 'Nunito', sans-serif;
+    display: block;
+    line-height: 6px; /* interlineado de texto */
+    word-spacing: 5px; /* espacio entre palabras */
+    position: relative;
+    left: 670px;
+    bottom: 800px;
+    font-size: 20px;
+    font-weight: 200;
+  }
+
+.contacto p{
+    font-family: 'Nunito', sans-serif;
+    display: block;
+    line-height: 6px; /* interlineado de texto */
+    word-spacing: 5px; /* espacio entre palabras */
+    position: relative;
+    left: 600px;
+    bottom: 750px;
+    font-size: 15px;
+    font-weight: 200;
+}
